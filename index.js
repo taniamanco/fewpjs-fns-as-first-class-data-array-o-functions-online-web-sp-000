@@ -1,6 +1,10 @@
-function wakeDog(){}
+function wakeDog(){
+  
+}
 
-function LeashDog(){}
+function LeashDog(){
+  
+}
 
 function walkToPark(){
 }
@@ -9,7 +13,9 @@ function throwFrisbee(){
   
 }
 
-function walkHome(){}
+function walkHome(){
+  
+}
 
 function unLeashDog(){
   
