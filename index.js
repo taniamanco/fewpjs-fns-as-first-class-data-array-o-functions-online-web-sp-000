@@ -2,22 +2,22 @@ function wakeDog(dogName, dogBreed){
   console.log(`Wake ${dogName} the ${dogBreed}`);
 }
 
-function LeashDog(){
+function LeashDog(dogName, dogBreed){
   console.log(`Leash ${dogName} the ${dogBreed}`);
 }
 
-function walkToPark(){
+function walkToPark(dogName, dogBreed){
   console.log(`Walk ${dogName} the ${dogBreed}`);
 }
 
-function throwFrisbee(){
+function throwFrisbee(dogName, dogBreed){
   console.log(`Wake ${dogName} the ${dogBreed}`);
 }
 
-function walkHome(){
+function walkHome(dogName, dogBreed){
   console.log(`Wake ${dogName} the ${dogBreed}`);
 }
 
-function unLeashDog(){
+function unLeashDog(dogName, dogBreed){
   console.log(`Wake ${dogName} the ${dogBreed}`);
 }
